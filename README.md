@@ -5,7 +5,7 @@ Quick walkthrough for benefits of synthesizing sound inside codebase
 This is the [Interface for sound parameters](https://sfxr.me/)
 
 ## Use and Setup:
-Maintainer @chr15m [chr15m](https://github.com/chr15m) [JavaScript Library Repo](https://github.com/chr15m/jsfxr#use)
+Maintainer [chr15m](https://github.com/chr15m) [JavaScript Library Repo](https://github.com/chr15m/jsfxr#use)
 
 1. **This app uses CRA**
 ```ts
