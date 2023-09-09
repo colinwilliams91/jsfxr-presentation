@@ -17,6 +17,7 @@ cd my-app
 npm i jsfxr
 ```
 3. Include the scripts in your page to directly use the `sfxr` namespace without requiring it<sup>1</sup>.
+<br />
 `./public/index.html`
 ```ts
 <script src="https://sfxr.me/riffwave.js"></script>
