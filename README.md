@@ -19,6 +19,7 @@ cd my-app
 ```ts
 npm i jsfxr
 ```
+[JSFXR GUI](https://sfxr.me/)
 3. **Include the scripts in your page to directly use the `sfxr` namespace without requiring it**<sup>1</sup>.
 
 `./public/index.html`
@@ -27,6 +28,8 @@ npm i jsfxr
 <script src="https://sfxr.me/sfxr.js"></script>
 ```
 
+[Cloudinary Console](https://console.cloudinary.com/console/c-793d2e3467f8b7cba6fdcb67ba0f0e/media_library/search?q=)
+[Click URL]([https://res.cloudinary.com/dbdyc4klu/video/upload/v1694301930/click_rqnmgv.wav](https://res.cloudinary.com/dbdyc4klu/video/upload/v1694301930/click_rqnmgv.wav))
 
 ### Resources:
 - [Webaudio API MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
