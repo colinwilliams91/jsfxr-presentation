@@ -1,5 +1,4 @@
-# jsfxr-presentation
-Quick walkthrough for benefits of synthesizing sound inside codebase
+![image](https://github.com/colinwilliams91/jsfxr-presentation/assets/92059005/2420a9c1-f057-4550-bc05-3d5a1463259d)
 
 ## JSFXR GUI:
 This is the [Interface for sound parameters](https://sfxr.me/)
