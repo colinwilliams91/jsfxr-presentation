@@ -19,7 +19,7 @@ cd my-app
 ```ts
 npm i jsfxr
 ```
-[JSFXR GUI](https://sfxr.me/)
+- [JSFXR GUI](https://sfxr.me/)
 3. **Include the scripts in your page to directly use the `sfxr` namespace without requiring it**<sup>1</sup>.
 
 `./public/index.html`
