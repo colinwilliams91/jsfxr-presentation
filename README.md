@@ -1,4 +1,8 @@
-![image](https://github.com/colinwilliams91/jsfxr-presentation/assets/92059005/2420a9c1-f057-4550-bc05-3d5a1463259d)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github.com/colinwilliams91/jsfxr-presentation/assets/92059005/2420a9c1-f057-4550-bc05-3d5a1463259d" alt="jsfxr-logo" />
+  </a>
+</p>
 
 ## JSFXR GUI:
 This is the [Interface for sound parameters](https://sfxr.me/)
