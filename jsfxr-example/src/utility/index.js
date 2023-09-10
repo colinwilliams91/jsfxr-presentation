@@ -30,3 +30,4 @@ const clickJSON = {
   "sample_size": 16
 };
 
+export const clickSFXR = sfxr.toAudio(clickJSON);
