@@ -26,8 +26,8 @@ npm i jsfxr
 
 
 ### Resources:
-[Webaudio API MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
-[Modulation and Effects Filters w/ Webaudio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API#defining_audio_effects_filters)
+- [Webaudio API MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
+- [Modulation and Effects Filters w/ Webaudio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API#defining_audio_effects_filters)
 
 ### Footnotes: 
 <sup>1</sup> - These Scripts will allow for our app to use the `sfxr` namespace without requiring it (without these we get an error about riffwave and sfxr PRESUMABLY from where they are used in /node_modules)
