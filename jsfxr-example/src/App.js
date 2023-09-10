@@ -1,6 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
 
+import { clickSFXR } from "./utility";
 
 function App() {
   /* External Cloudinary `click.wav` URL Hosting */
@@ -12,8 +13,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h5>Type your message here!</h5>
+        <h5>Slow click report...</h5>
         <input onChange={() => clickAudio.play()}></input>
+        <h5>Fast click report!</h5>
+        <input onChange={() => clickSFXR.play()}></input>
       </header>
     </div>
   );
